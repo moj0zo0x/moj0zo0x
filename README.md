@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
+I think I am ADHD, so ping me before I move onto something else.
 <!--
 **moj0zo0x/moj0zo0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
